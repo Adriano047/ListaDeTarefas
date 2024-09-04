@@ -1,3 +1,4 @@
+<a id="readme-top"></a>
 # Lista De Tarefas
 Uma lista de tarefas que permite ao usuário adicionar, remover e listar tarefas em um loop contínuo até que ele decida sair. Além disso, possui tratamento de erros para garantir uma experiência de usuário mais robusta e amigável.
 
@@ -20,7 +21,27 @@ Uma lista de tarefas que permite ao usuário adicionar, remover e listar tarefas
 ### Listar:
 ![Listar](https://private-user-images.githubusercontent.com/106997880/364365156-5241aee0-524a-4679-b39f-ed8907121c95.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NTIwMDYsIm5iZiI6MTcyNTQ1MTcwNiwicGF0aCI6Ii8xMDY5OTc4ODAvMzY0MzY1MTU2LTUyNDFhZWUwLTUyNGEtNDY3OS1iMzlmLWVkODkwNzEyMWM5NS5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwNFQxMjA4MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZjE2ZDA2NDc4Y2UzZmMyMDNiMjRjNzIzOGI5ZWQzNTMwZTA2Y2M5ODUxZWE4NzljOTM4YjA1YWFkYTc3NDcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.5N1wKuPLxkn0CMZkpy9cUQfxfd6_kY8iPoCJU2aOQqM)
 
+## :octocat: Faça o clone do projeto
 
+```bash
+# Clone este repositório
+$ git clone <https://github.com/gabriel-mend/me.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd me
+
+```
+## 👨🏻‍🚀 Sobre mim
+"Conecte-se comigo no LinkedIn para explorar minha trajetória profissional e colaborar em projetos incríveis."
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/cardosodev047/"><img src="https://avatars0.githubusercontent.com/u/49095200?s=460&u=27a77c43fff5eab61be02a3fedfd7db554145981&v=4" width="100px;" alt="Kent C. Dodds"/><br /><sub><b>Adriano Cardoso Santos</b></sub></a><br />
+    </tr>
+  </tbody>
+</table>
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 
 
