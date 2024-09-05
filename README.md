@@ -21,6 +21,9 @@ Uma lista de tarefas que permite ao usuário adicionar, Marcar como concluida e 
 ### Listar:
 ![Listar](https://github.com/user-attachments/assets/cc2e8f72-9811-49d1-ba81-a8a56781b554)
 
+## Rodando o Programa
+https://github.com/user-attachments/assets/c94e2eb9-baa1-4268-9b02-b12500938663
+
 ## :octocat: Faça o clone do projeto
 
 ```bash
