@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 # 📋 Lista De Tarefas
-Uma lista de tarefas que permite ao usuário adicionar, remover e listar tarefas em um loop contínuo até que ele decida sair. Além disso, possui tratamento de erros para garantir uma experiência de usuário mais robusta e amigável.
+Uma lista de tarefas que permite ao usuário adicionar, Marcar como concluida e listar tarefas em um loop contínuo até que ele decida sair. Além disso, possui tratamento de erros para garantir uma experiência de usuário mais robusta e amigável.
 
 ## 🔧 Funcionalidades 
 
